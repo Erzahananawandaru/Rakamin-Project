@@ -1,0 +1,2 @@
+# Rakamin-Project
+automation scrip
